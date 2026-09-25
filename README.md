@@ -11,9 +11,9 @@ dan dipelajari.
 
 | Nama | NIM |
 |------|-----|
-| (isi nama anggota) | (isi NIM) |
-| (isi nama anggota) | (isi NIM) |
-| (isi nama anggota) | (isi NIM) |
+| Bintang Ramadhan | 123240073 |
+| Fahmi Firdaus | 123240055 |
+| Farabian Nabil Alauzi | 123240058 |
 
 ## Menu Aplikasi
 
